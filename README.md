@@ -1,5 +1,6 @@
 # arjs-vue
-
+### 测试activereports
+vue2集成了activereports
 ## Project setup
 ```
 yarn install
